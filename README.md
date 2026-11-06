@@ -80,3 +80,19 @@ NIIT Capstone Project III
 ## 💡 Project Outcome
 
 This project demonstrates how Python, data analytics and AI can help individuals understand their financial activities, identify spending patterns and make better budgeting decisions.
+## 📸 Project Screenshots
+
+### 1. Transaction Management
+![Transaction Management](screenshots/transaction-management.png)
+
+### 2. Financial Summary
+![Financial Summary](screenshots/financial-summary.png)
+
+### 3. Category-wise Spending Analysis
+![Category-wise Spending](screenshots/category-wise-spending.png)
+
+### 4. Expense Audit and Metrics
+![Expense Audit and Metrics](screenshots/expense-audit-and-metrics.png)
+
+### 5. AI-Powered Financial Insights
+![AI Financial Insights](screenshots/ai-financial-insights.png)
